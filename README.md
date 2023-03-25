@@ -10,7 +10,7 @@ To compile projects written in [Ruby](https://www.ruby-lang.org/en/)
 
 ## Projects
 
-[Ruby on Rails](https://rubyonrails.org/)
+Ruby on Rails - [Github](https://github.com/brtmvdl/rubyonrails)
 
 ## Services
 
